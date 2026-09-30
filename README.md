@@ -191,7 +191,7 @@ Visualizaciones realizadas:
 
 1. Descarga el archivo `.ipynb`.
 
-2. Abre [[[Google Colab](https://colab.research.google.com/).](https://colab.research.google.com/drive/14FkfNG8dbbyktBcVT2d3KlKzR1j04I0b?usp=sharing)]
+2. Abre [[[Google Colab](https://colab.research.google.com/).]https://colab.research.google.com/drive/1mnykGx1067WVdxOMmEwxWoW14ukKu_Ca?hl=es]
 
 3. Selecciona **Archivo → Subir notebook**.
 
